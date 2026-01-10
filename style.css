@@ -1,3 +1,7 @@
+.main {
+    background-color: #2563eb;
+}
+
 /* Web2Phone form styling (less blocky, spaced, NOT full-width on large screens) */
 form[action*="web2phone"]{
   max-width: 900px;
